@@ -1,0 +1,239 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Andrea."
+  subtitle: "UX Researcher"
+  description: "I work at <a target='_blank' href='www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations and designers gaining insights about their users and steering product development. «Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum ..."
+  #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Find me on LinkedIn"
+    URL: "https://www.linkedin.com/in/andrea-scalco/"
+
+  socialLinks:
+    # - icon: "linkedin"
+    #   URL: "https://www.linkedin.com/company/radity/"
+
+    # - icon: "codepen"
+    #   URL: "https://andrea-scalco.medium.com/"
+
+    # - icon: "github"
+    #  URL: "https://github.com/radity"
+
+    # - icon: "twitter"
+    #  URL: "https://twitter.com/radity"
+
+    # - icon: "dribbble"
+    #  URL: "https://dribbble.com/radity"
+
+    # - icon: "behance"
+    #  URL: "https://www.behance.net/radity-digital"
+
+    # - icon: "youtube"
+    #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    # - icon: "instagram"
+    #  URL: "https://www.instagram.com/teamradity/"
+
+    # - icon: "facebook"
+    #  URL: "https://www.facebook.com/raditycom/"
+
+    # - icon: "codepen"
+    #  URL: "#"
+
+    # - icon: "yelp"
+    #  URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
+    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
+    good for all of you.
+    </p>
+    <p class="lead">
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Verona (Italy)"
+      year: "2014-2017"
+      degree: "PhD in Psychology"
+
+    - university: "University of Padua (Italy)"
+      year: "2007-2012"
+      degree: "BSc & MSc in Social, Work, and Communication Psychology"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 3 years of experience in autonomously managing end-to-end research projects. Highly skilled in in quantitative research methods (standardised questionnaires, behavioural analytics, A/B testing), data analysis and visualisation (in Excel, SPSS, and R). Also experienced in qualitative research (user interviews), heuristic evaluations, and usability testing (un/moderated)."
+  button:
+    icon: "icon-profile-fill"
+    btnText: "Download my Resume"
+    URL: "#"
+  # button2:
+  #  icon: "icon-profile-fill"
+  #  btnText: "Download My Resume"
+  #  URL: "#"
+
+  items:
+    - title: "UX Researcher"
+      company: "Conflux (Rome - Italy)"
+      duration: "May 2021 - Today"
+
+    - title: "Research Scientist"
+      company: "James Hutton Institute (Aberdeen - UK)"
+      duration: "Aug 2020 - Apr 2020"
+
+    - title: "Postdoctoral Researcher"
+      company: "University of Aberdeen (Aberdeen - UK)"
+      duration: "Feb 2017 - Jul 2020"
+
+# Client & Work
+client_and_work:
+  title: "Skills & Research examples"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "The design of no-brainer plan choices"
+      description: "A practical example of how the decoy effect can ease users’ decisions when designing pricing plans."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Read on UX Collective"
+        URL: "https://uxdesign.cc/the-design-of-no-brainer-choices-4db044828be"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Starting with behavioural analytics"
+      description: "The key concepts to understand website reports."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Read on Bootcamp"
+        URL: "https://bootcamp.uxdesign.cc/starting-with-behavioural-analytics-4a4c6985e47c"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+  #  - title: "Robo Advisor"
+  #    description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+  #    button:
+  #      icon: "icon-arrow-right"
+  #      btnText: "Case Study"
+  #      URL: "#"
+  #    image:
+  #      x: "img/works/robo-advisor.jpg"
+  #      _2x: "img/works/robo-advisor@2x.jpg"
+  #    is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  #phone:
+  #  title: "Phone Number"
+  #  number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:andrea.scalco@conflux.com">andrea.scalco@conflux.it</a>'
+  address:
+    title: "Address"
+    address: "Conflux Srl (Milan HQ) <br /> Via Roberto Lepetit 8/10 <br /> 20124 Milan (Italy)"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
