@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://eloquent-rosalind-65a526.netlify.app/"
 languageCode = "en-us"
 theme = "raditian"
 
