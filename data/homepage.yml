@@ -156,8 +156,8 @@ client_and_work:
         btnText: "Read on UX Collective"
         URL: "https://uxdesign.cc/the-design-of-no-brainer-choices-4db044828be"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/Decoy_art_image-small.png"
+        _2x: "img/works/Decoy_art_image-large.png"
       is_even: true
 
     - title: "Starting with behavioural analytics"
