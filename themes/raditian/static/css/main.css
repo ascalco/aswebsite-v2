@@ -10635,9 +10635,9 @@ html,html body {
 }
 
 .experience__company {
-  font-size: 24px;
+  font-size: 14px;
   font-weight: 700;
-  color: #000 /*original: #e93e34*/
+  color: #0e91d0 /*original: #e93e34*/
 }
 
 .clients {
