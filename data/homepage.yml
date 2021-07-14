@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Andrea."
   subtitle: "UX Researcher"
-  description: "I work at <a target='_blank' href='https://www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations and designers gaining insights about their users and steering product development. I adapted the scientific approach acquired during my academic years to business needs. I often tend to speak through numbers and statistics, although I do enjoy interviewing stakeholders."
+  description: "I work at <a target='_blank' href='https://www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations and designers gaining insights about their users and steering product development for the best. I adapted the scientific approach acquired during my academic years to business needs. I often speak through numbers and statistics, although I do enjoy interviewing stakeholders and users."
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
