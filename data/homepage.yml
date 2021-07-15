@@ -93,8 +93,8 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Find me on LinkedIn"
-    URL: "https://www.linkedin.com/in/andrea-scalco/"
-   button2:
+    URL: "https://www.linkedin.com/in/andrea-scalco"
+  button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "#"
