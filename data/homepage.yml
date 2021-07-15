@@ -213,7 +213,9 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "mailto:andrea.scalco@conflux.it"
+    #action: "mailto:andrea.scalco@conflux.it"
+    action: "https://getform.io/f/b96bf0c7-b592-4f24-b65d-7a1a53fb06b9"
+    method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
