@@ -167,8 +167,8 @@ client_and_work:
         btnText: "Read on Bootcamp"
         URL: "https://bootcamp.uxdesign.cc/starting-with-behavioural-analytics-4a4c6985e47c"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/BA_art_image-small.png"
+        _2x: "img/works/BA_art_image-large.png"
       is_even: false
 
   #  - title: "Robo Advisor"
