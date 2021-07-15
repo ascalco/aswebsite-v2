@@ -14,7 +14,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact me"
-    URL: "#contact"
+    URL: "mailto:andrea.scalco@conflux.it"
 
   socialLinks:
     # - icon: "linkedin"
