@@ -119,34 +119,44 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/google-analytics-small.png"
+        _2x: "img/clients/google-analytics-large.png"
+      alt: "Google Analytics"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/google-tm-small.png"
+        _2x: "img/clients/google-tm-large.png"
+      alt: "Google Tag Manager"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/hotjar-small.png"
+        _2x: "img/clients/hotjar-large.png"
+      alt: "HotJar"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/ms-excel-small.png"
+        _2x: "img/clients/ms-excel-large.png"
+      alt: "MS Excel"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/r-small.png"
+        _2x: "img/clients/r-large.png"
+      alt: "R Studio"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/qualtrics-small.png"
+        _2x: "img/clients/qualtrics-large.png"
+      alt: "Qualtrics"
+
+    - logo:
+        x: "img/clients/miro-small.png"
+        _2x: "img/clients/miro-large.png"
+      alt: "Miro"
+
+    - logo:
+        x: "img/clients/airtable-small.png"
+        _2x: "img/clients/airtable-large.png"
+      alt: "Airtable"
 
   works:
     - title: "The design of no-brainer plan choices"
