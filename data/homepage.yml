@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Andrea."
   subtitle: "UX Researcher"
-  description: "I work at <a target='_blank' href='https://www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations and designers gaining insights about their users and steering product development for the best. I adapted the scientific approach acquired during my academic years to business needs. I often speak through numbers and statistics, although I do enjoy interviewing stakeholders and users."
+  description: "I work at <a target='_blank' href='https://www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations to understand their users and steer product development for the best. I adapted the scientific approach acquired during my academic years to business needs. I diversify research methods and sources of information to attain accurate and deep insights. Indeed, although I often speak through numbers and metrics, I do enjoy interviewing stakeholders and users."
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -12,9 +12,9 @@ showcase:
     x: "img/showcase/showcase-mobile.jpg"
 
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Find me on LinkedIn"
-    URL: "https://www.linkedin.com/in/andrea-scalco/"
+    icon: "icon-mail-fill"
+    btnText: "Contact me"
+    URL: "#contact"
 
   socialLinks:
     # - icon: "linkedin"
@@ -89,15 +89,15 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 3 years of experience in autonomously managing end-to-end research projects. Highly skilled in in quantitative research methods (standardised questionnaires, behavioural analytics, A/B testing), data analysis and visualisation (in Excel, SPSS, and R). Also experienced in qualitative research (user interviews), heuristic evaluations, and usability testing (un/moderated)."
+  description: "3+ years of experience in managing end-to-end research projects. Skilled in quantitative research methods (including standardised questionnaires, surveys, usability metrics, and behavioural analytics), data analysis and visualisation (in both Excel and R). I usually enrich quantitative data using qualitative methods (like user interviews and workshops), heuristic evaluations, and un/moderated usability testing."
   button:
+    icon: "icon-linkedin-fill"
+    btnText: "Find me on LinkedIn"
+    URL: "https://www.linkedin.com/in/andrea-scalco/"
+   button2:
     icon: "icon-profile-fill"
-    btnText: "Download my Resume"
+    btnText: "Download My Resume"
     URL: "#"
-  # button2:
-  #  icon: "icon-profile-fill"
-  #  btnText: "Download My Resume"
-  #  URL: "#"
 
   items:
     - title: "UX Researcher"
@@ -106,7 +106,7 @@ experience:
 
     - title: "Research Scientist"
       company: "James Hutton Institute (Aberdeen - UK)"
-      duration: "Aug 2020 - Apr 2020"
+      duration: "Aug 2020 - Apr 2021"
 
     - title: "Postdoctoral Researcher"
       company: "University of Aberdeen (Aberdeen - UK)"
@@ -213,7 +213,7 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "mailto:andrea.scalco@conflux.it"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
@@ -228,7 +228,7 @@ contact:
     address: "Conflux Srl (Milan HQ) <br /> Via Roberto Lepetit 8/10 <br /> 20124 Milan (Italy)"
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
+    btnText: "Send message"
 
 # newsletter
 newsletter:
