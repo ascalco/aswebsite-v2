@@ -233,9 +233,9 @@ contact:
   #phone:
   #  title: "Phone Number"
   #  number: "+41 (44) 505 10 99"
-  email:
-    title: "Email"
-    email: '<a href="mailto:andrea.scalco@conflux.com">andrea.scalco@conflux.it</a>'
+  #email:
+  #  title: "Email"
+  #  email: '<a href="mailto:andrea.scalco@conflux.com">andrea.scalco@conflux.it</a>'
   address:
     title: "Address"
     address: "Conflux Srl (Milan HQ) <br /> Via Roberto Lepetit 8/10 <br /> 20124 Milan (Italy)"
