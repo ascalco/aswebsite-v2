@@ -224,7 +224,8 @@ contact:
   title: "Contact"
   form:
     #action: "mailto:andrea.scalco@conflux.it"
-    action: "https://formkeep.com/f/1d560d10d5d9"
+    #action: "https://formkeep.com/f/1d560d10d5d9"
+    action: "https://formcarry.com/s/XL5Ivr0coPm"
     method: "POST"
     full_name: "Full Name"
     email: "Email Address"
