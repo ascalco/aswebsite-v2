@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Andrea."
   subtitle: "UX Researcher"
-  description: "I work at <a target='_blank' href='https://www.conflux.it/'>Conflux</a>, a UX-UI consultancy agency. I help organisations to understand their users and steer product development for the best. I adapted the scientific approach acquired during my academic years to business needs. I diversify research methods and sources of information to attain accurate and deep insights. Indeed, although I often speak through numbers and metrics, I do enjoy interviewing stakeholders and users."
+  description: "I work at Conflux, a UX-UI consultancy agency where we help organisations to understand their users and steer product development for the best. I have adapted the scientific approach acquired during my academic years to business needs. Diversifying research methods and sources of information is key to provide accurate and deep insights. Indeed, although I often speak through numbers and metrics, I do enjoy interviewing stakeholders and users."
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -52,7 +52,7 @@ showcase:
 
 # about
 about:
-  enable: true
+  enable: false
   title: "Who am I?"
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
@@ -89,7 +89,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "3+ years of experience in managing end-to-end research projects. Skilled in quantitative research methods (including standardised questionnaires, surveys, usability metrics, and behavioural analytics), data analysis and visualisation (in both Excel and R). I usually enrich quantitative data using qualitative methods (like user interviews and workshops), heuristic evaluations, and un/moderated usability testing."
+  description: "3+ years of experience in managing end-to-end research projects. Skilled in <bold>quantitative research methods</bold> (including standardised questionnaires, surveys, usability metrics, and behavioural analytics), data analysis and visualisation (in both Excel and R). I usually enrich quantitative data using <bold>qualitative methods</bold> (like user interviews and workshops), <bold>heuristic evaluations</bold>, and <bold>un/moderated usability testing</bold>."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Find me on LinkedIn"
