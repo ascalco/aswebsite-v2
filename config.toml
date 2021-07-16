@@ -90,7 +90,7 @@ theme = "raditian"
     text2 = "scalco"
 
   [params.footer]
-      copyright = 'Built with Hugo | Raditian theme | Deployed on Netlify'
+      copyright = 'Built with Hugo | Theme by Radity | Deployed on Netlify'
 
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
