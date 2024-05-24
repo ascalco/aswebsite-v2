@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Hello, I’m Andrea."
-  subtitle: "UX Researcher"
-  description: "I work at <a target='_blank' href='https://happening.xyz//'>Happening</a>, where the best Tech and UX meet Sports and Gaming entertainment. I help the product teams to understand their users and steer product development for the best. Diversifying research methods and sources of information is key to providing accurate and deep insights. Indeed, although I often speak through numbers and metrics, I do enjoy interviewing stakeholders and users. I have adapted the scientific approach acquired during my academic years to business needs. "
+  subtitle: "UX Research Consultant"
+  description: "I help you grow your business by voicing your users' needs and wishes. With 7 years of experience managing research projects in international settings, I am proficient in both qualitative and quantitative research. I hold a PhD in Psychology, specializing in consumer psychology and human decision-making."
   #description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
