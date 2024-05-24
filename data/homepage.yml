@@ -227,8 +227,12 @@ testimonial:
 contact:
   enable: true
   title: "Contact"
-  form:
-    action: "mailto:andrea.scalco@conflux.it"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact me"
+    URL: "mailto:scalco.andrea@outlook.com"
+  #form:
+    #action: "mailto:scalco.andrea@outlook.com"
     #action: "https://formkeep.com/f/1d560d10d5d9"
     #action: "https://formcarry.com/s/XL5Ivr0coPm"
     #method: "POST"
